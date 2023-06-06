@@ -1,1 +1,1 @@
-My first README.md
+the first directory for git in ALx Zero Day 
