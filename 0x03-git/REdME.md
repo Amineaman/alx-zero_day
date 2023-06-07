@@ -1,1 +1,1 @@
-this is the first directory for git in ALX zero day
+this is the first directory for git in zero alx project 
