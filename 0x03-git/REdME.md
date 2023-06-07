@@ -1,1 +1,1 @@
-this is the first commit
+this is the first directory for git in the zero alx project 
